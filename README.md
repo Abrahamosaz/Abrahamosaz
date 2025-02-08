@@ -62,7 +62,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats:
-[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahamosaz&show_icons=true&theme=dark&icon_color=FFFF00&)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abrahamosaz&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamosaz&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrahamosaz&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamosaz&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
